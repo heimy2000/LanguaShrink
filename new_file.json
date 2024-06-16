@@ -1,2 +1,0 @@
-{"items": [{"role": "user", "content": "", "weight": 0.0}, {"role": "assistant", "content": " ", "weight": 1.0}], "condition": "reflexion", "system": "", "history": ""}
-{"items": [{"role": "user", "content": "", "weight": 0.0}, {"role": "assistant", "content": " ", "weight": 0.2}], "condition": "react", "system": "", "history": ""}
